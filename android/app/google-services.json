@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "510038644620",
+    "firebase_url": "https://uraanapplication.firebaseio.com",
+    "project_id": "uraanapplication",
+    "storage_bucket": "uraanapplication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510038644620:android:2135dd05992a521ef628a9",
+        "android_client_info": {
+          "package_name": "com.devolutions.uraan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "510038644620-a8lma1uh4fkvj5jim02oikq9ec32jk4u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.devolutions.uraan",
+            "certificate_hash": "ae92d850ac925696edbf7ade30cc0c441658e90c"
+          }
+        },
+        {
+          "client_id": "510038644620-8spvk4krhkv4tfngvgv6evc5cr90jt50.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_xArpG0BECoO2V_pm6VOnOJdBXgB3WAI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "510038644620-8spvk4krhkv4tfngvgv6evc5cr90jt50.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
